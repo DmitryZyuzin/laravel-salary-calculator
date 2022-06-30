@@ -21,7 +21,7 @@
 
 ## Установка, тестирование
 - Создать папку проекта, например `venezia-stone`
-- Скачать проект , средствами git `git clone `
+- Скачать проект , средствами git `git clone https://github.com/DmitryZyuzin/laravel-salary-calculator.git`
 - Установить требуемые зависимости `composer install`
 - Запустить автоматическое тестирование `php artisan test`
 
